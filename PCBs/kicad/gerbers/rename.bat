@@ -1,0 +1,16 @@
+rm -f christmas8.xln
+rm -f christmas8.gko
+rm -f christmas8.gbl
+rm -f christmas8.gbs
+rm -f christmas8.gbo
+rm -f christmas8.gtl
+rm -f christmas8.gts
+rm -f christmas8.gt0
+mv christmas8-pre-reroute.drl christmas8.xln
+mv christmas8-pre-reroute-Edge_Cuts.gbr christmas8.gko
+mv christmas8-pre-reroute-B_Cu.gbl christmas8.gbl
+mv christmas8-pre-reroute-B_Mask.gbs christmas8.gbs
+mv christmas8-pre-reroute-B_SilkS.gbo christmas8.gbo
+mv christmas8-pre-reroute-F_Cu.gtl christmas8.gtl
+mv christmas8-pre-reroute-F_Mask.gts christmas8.gts
+mv christmas8-pre-reroute-F_SilkS.gto christmas8.gto

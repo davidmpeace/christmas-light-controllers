@@ -1,0 +1,192 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 5/30/2015 8:18:43 PM
+
+BeginCmp
+TimeStamp = /55601C91;
+Reference = C1;
+ValeurCmp = .1uF;
+IdModule  = .1uF;
+EndCmp
+
+BeginCmp
+TimeStamp = /55601C84;
+Reference = C2;
+ValeurCmp = .1uF;
+IdModule  = .1uF;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602C4F;
+Reference = C3;
+ValeurCmp = .1uF;
+IdModule  = .1uF;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602C49;
+Reference = C4;
+ValeurCmp = .1uF;
+IdModule  = .1uF;
+EndCmp
+
+BeginCmp
+TimeStamp = /55601812;
+Reference = D1;
+ValeurCmp = IN5239;
+IdModule  = Diode;
+EndCmp
+
+BeginCmp
+TimeStamp = /5560181F;
+Reference = D2;
+ValeurCmp = IN5229;
+IdModule  = Diode;
+EndCmp
+
+BeginCmp
+TimeStamp = /55603AB2;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /55601846;
+Reference = ISP1;
+ValeurCmp = ISP;
+IdModule  = ISP;
+EndCmp
+
+BeginCmp
+TimeStamp = /556017C9;
+Reference = J1;
+ValeurCmp = 215877-1;
+IdModule  = RJ45_8_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /556017D8;
+Reference = J2;
+ValeurCmp = 215877-1;
+IdModule  = RJ45_8_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5560196C;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = JUMPER;
+EndCmp
+
+BeginCmp
+TimeStamp = /5560409D;
+Reference = P1;
+ValeurCmp = PWR;
+IdModule  = POWER_IN;
+EndCmp
+
+BeginCmp
+TimeStamp = /556A6E20;
+Reference = P2;
+ValeurCmp = PIXEL_OUT;
+IdModule  = PIXEL_OUT;
+EndCmp
+
+BeginCmp
+TimeStamp = /55601964;
+Reference = R1;
+ValeurCmp = 120;
+IdModule  = Resisitor;
+EndCmp
+
+BeginCmp
+TimeStamp = /556017F1;
+Reference = R2;
+ValeurCmp = 27K;
+IdModule  = Resisitor;
+EndCmp
+
+BeginCmp
+TimeStamp = /556017FE;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = Resisitor;
+EndCmp
+
+BeginCmp
+TimeStamp = /55601804;
+Reference = R4;
+ValeurCmp = 1K;
+IdModule  = Resisitor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5560180A;
+Reference = R5;
+ValeurCmp = 27K;
+IdModule  = Resisitor;
+EndCmp
+
+BeginCmp
+TimeStamp = /55603BF8;
+Reference = R6;
+ValeurCmp = 680;
+IdModule  = Resisitor;
+EndCmp
+
+BeginCmp
+TimeStamp = /556063DA;
+Reference = TP1;
+ValeurCmp = TESTPOINT;
+IdModule  = TESTPOINT-CIRCLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /556063E0;
+Reference = TP2;
+ValeurCmp = TESTPOINT;
+IdModule  = TESTPOINT-CIRCLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /55605E9A;
+Reference = TP3;
+ValeurCmp = TESTPOINT;
+IdModule  = TESTPOINT-CIRCLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /55605EB1;
+Reference = TP4;
+ValeurCmp = TESTPOINT;
+IdModule  = TESTPOINT-CIRCLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /55601831;
+Reference = U1;
+ValeurCmp = SN65LBC176AP;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5560183E;
+Reference = U2;
+ValeurCmp = SN65LBC176AP;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602A34;
+Reference = U3;
+ValeurCmp = ATMEGA328P;
+IdModule  = DIP-28__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55601855;
+Reference = U4;
+ValeurCmp = 18.432_MHZ;
+IdModule  = 18.432MHz;
+EndCmp
+
+EndListe
