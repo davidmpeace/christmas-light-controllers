@@ -2,6 +2,6 @@
 
 ## Train
 
-### Train Windows
-http://train-windows.local
-http://192.168.86.80
+Location | URL | IP
+------------ | ------------- | -------------
+Train Windows | http://train-windows.local | http://192.168.86.80
