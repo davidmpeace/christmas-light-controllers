@@ -1,3 +1,7 @@
-# Christmas Light Controllers
+# Arts Center Controllers
 
-Repo to hold code and PCB designs for the Christmas Light display controllers.
+## Train
+
+### Train Windows
+http://train-windows.local
+http://192.168.86.80
